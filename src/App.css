@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #0B2434;
+}
+
+.App {
+  height: 100vh;
+  display: grid;
+  place-content: center;
+}
